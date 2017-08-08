@@ -1,21 +1,21 @@
 {
-    "name": "naturalweb/bootstrap",
-    "description": "Simple Module to allow facilitate use of Twitter Bootstrap Zend Framework 2",
+    "name": "becinteligencia/bootstrap",
+    "description": "Módulo simples para Zend Framework 2 com algumas implementações do Twitter Bootstrap versão 2.3",
     "type": "library",
     "keywords": [
-        "zf2", "zend", "framework", "naturalweb", "twitter", "bootstrap"
+        "zf2", "zend", "framework", "becinteligencia", "twitter", "bootstrap"
     ],
     "license": "BSD-3-Clause",
-    "homepage": "https://github.com/naturalweb/NwBootstrap",
+    "homepage": "https://github.com/edsonhoraciojuniorbec/NwBootstrap",
     "authors": [
         {
-            "name": "Renato Moura",
-            "email": "renato@naturalweb.com.br"
+            "name": "Edson Horácio Junior",
+            "email": "edson.junior@becinteligencia.com.br"
         }
     ],
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework": "2.*"
+        "zendframework/zendframework": "2.3.*",
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
